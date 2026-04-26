@@ -42,20 +42,7 @@ export const TeamSection = () => {
       bio: "Conducted extensive research to identify and curate relevant datasets, ensuring data quality and reliability.",
       photo: "/I4.PNG"
     },
-    {
-      id: 5,
-      name: "Anushka Sharma",
-      role: "Backend Developer",
-      bio: "Designed and trained machine learning models, integrated predictive pipelines, and optimized performance for real-time analysis.",
-      photo: "/I5.jpg"
-    },
-    {
-      id: 6,
-      name: "Harshit Rawat",
-      role: "R&D",
-      bio: "Contributed to research by exploring and identifying useful datasets for the project.",
-      photo: "/I2.jpeg"
-    }
+    
   ];
 
   return (
