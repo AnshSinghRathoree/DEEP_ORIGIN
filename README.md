@@ -7,11 +7,9 @@ DEEP ORIGIN helps identify taxonomy, assess biodiversity, and detect potential n
 
 ## 🚀 Live Demo
 
-### Frontend  
+
 https://deep-origin.vercel.app/
 
-### Backend API  
-https://deeporigin-production.up.railway.app/
 
 ---
 
